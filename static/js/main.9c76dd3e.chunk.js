@@ -1,0 +1,2 @@
+(this["webpackJsonpsite-created"]=this["webpackJsonpsite-created"]||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),c=n(2),l=function(){return a.a.createElement("h1",null," \u0421\u0430\u0439\u0442 \u0441\u0442\u0432\u043e\u0440\u0435\u043d\u043e")};n.n(c).a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(l,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.9c76dd3e.chunk.js.map
